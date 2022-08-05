@@ -14,7 +14,7 @@
         android:adjustViewBounds="true"
         android:cropToPadding="true"
         android:scaleType="fitXY"
-        android:src="@drawable/bg_rain" />
+        android:src="@drawable/background" />
 
     <TextView
         android:id="@+id/titleScreenText"
